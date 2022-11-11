@@ -73,4 +73,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Allan Ndonga** - [alz254](https://github.com/alz254)
+* **Abdirahman Mohamed** - [Buushe](https://github.com/Buushe)
